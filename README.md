@@ -21,8 +21,6 @@ Displays predicted job category in real time
 
 
 
----
-
 ## Tech Stack
 
 Python
@@ -73,7 +71,7 @@ Pickle
 
 
 
-## Use Cases
+## Use Cases :
 
 Resume screening automation
 
